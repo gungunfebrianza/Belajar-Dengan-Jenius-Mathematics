@@ -1,8 +1,8 @@
 # Belajar Dengan Jenius Pre-Algebra
 Learning From Zero to Hero Pre-algebra
 
-### Identity Number
-
+### [Identity Number](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Pre-Algebra/blob/master/identity-numbers.md) 
+### [Equation](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Pre-Algebra/blob/master/Equation.md) 
 
 
 **Note :**    
