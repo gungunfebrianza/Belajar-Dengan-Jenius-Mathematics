@@ -1,4 +1,4 @@
-<img src="../assets/Real Number Scope.png">
+<img src="../assets/Real Numbers.png">
 
 Konsep tentang **Real Number System** terus berevolusi dari waktu ke waktu, gagasan tentang konsep **Number** terus berubah dari waktu ke waktu. Apa itu **Number**? 
 
