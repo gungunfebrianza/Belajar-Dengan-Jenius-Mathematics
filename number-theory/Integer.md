@@ -2,4 +2,4 @@ Selain nol gagasan selanjutnya adalah penemuan **Integers**, penggembala domba y
 
 Di bawah ini adalah scope sebuah integer :
 
-<img src="/assets/Integer.png">
+<img src="../assets/Integer.png">
