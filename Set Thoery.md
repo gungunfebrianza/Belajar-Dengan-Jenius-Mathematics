@@ -38,6 +38,10 @@ Jika **variable p** adalah nilai dari **Initial Supply**, maka aturan internal *
 
 Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara internal representasinya adalah 1.000.000.000.000.000.000.000.000 menyerupai unit **Wei** dalam **Currency Standard Metric** dalam **Ethereum Protocol**.
 
+## Subset
+
+
+
 # Propositional Logic
 
 Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat seperti saat kita berbicara dengan teman, berdebat dalam diskusi atau merencanakan masa depan dengan pasangan kita. Penilaian logika ditentukan dari sekumpulan informasi yang disebut dengan asumsi.
@@ -86,21 +90,31 @@ Sebuah **Composite Proposition** yang tetap **independent** tanpa terpengaruh ol
 
 **Proposition** disederhanakan dengan membuat **abstraction** secara simbolik. **Sebuah Composite Proposition** tersusun dari **Atomic Proposition** dan **Logical Words**. **Symbolic Language** dibuat untuk merepresentasikan **Atomic Proposition** ke dalam sebuah **Propositional Variable**s.
 
-Contoh **Propositional Variable** adalah **variable** seperti **x,y,z** dan sebagainya. **Propositional Variable** disebut juga sebagai **Atomic Formula**.
-
 ### Propositional Variable 
 
+Contoh **Propositional Variable** adalah **variable** seperti :**x,y,z** dan sebagainya. 
+
+**Propositional Variable** disebut juga sebagai **Atomic Formula**.
+
+Simbol yang digunakan untuk merepresentasikan **Propositional Variable** tidak dianggap terlalu penting. Yang paling penting adalah kita memiliki cukup **variables** untuk merepresentasikan sebuah **expression** yang kita inginkan. **Propositional Variables** merepresentasikan sebuah **Propositions**, seperti di bawah ini : 
+
+<img src="https://render.githubusercontent.com/render/math?math=A \ \cup \ B = B \ \cap \ A&mode=inline">
+
+**Proposition** bersifat **concrete** dan **Variable** bersifat **abstract**.
+
 ### Connective
+
+**Connectives** adalah bagian dari **Symbolic Language**. Simbol-simbol tersebut akan digunakan untuk menggabungkan sekumpulan formula.
 
 Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut dengan **Connectives** :
 
 1. **not** (**negation**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline">
-2. **and** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">
-3. **or** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">
-4. if-then dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
+2. **and** (**conjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">
+3. **or** (**disjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">
+4. **if-then** (**implication**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
 5. **if-and-only-if** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline">
 
-Logic adalah study tentang ilmu membuat argumen sehingga untuk mempelajari argumen seseorang harus melakukan study terlebih dahulu tentang statement.
+
 
 ## Symbolic Logic
 
@@ -121,4 +135,34 @@ Logic adalah study tentang ilmu membuat argumen sehingga untuk mempelajari argum
 3. %22 - Encoded Symbol of "
 4. %27 - Encoded Symbol '
 5. %2B - Encoded Symbol +
+
+# Example
+
+Terdapat 3 Owner, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
+
+O<img src="https://render.githubusercontent.com/render/math?math==  \{a_1,a_2,a_3\}&mode=inline">
+
+Skema 2 of 3 multisig transaction direpresentasikan dengan 2 notasi tuple, kita harus memilih salah satunya: 
+
+<img src="https://render.githubusercontent.com/render/math?math=(%3C \{x|x \in \ O\}, \{x|x \in \ O\} %3E) \lor (%3C \{x|x \in \ O\}, \{x|x \in \ O\}, \{x|x \in \ O\} %3E)"> 
+
+Dengan syarat representasi Owner contract harus berbeda-beda sehingga  :
+
+<img src="https://render.githubusercontent.com/render/math?math=p_1(e) \neq p_2(e) &mode=inline"> 
+
+Dan pada  3n-tuple
+
+ <img src="https://render.githubusercontent.com/render/math?math=\{x | \ x \ \in O \ \ \}&mode=inline">tuple dalam notasi set builder :
+
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\{x \ \in O \ \ | \ \ x \ \ |O|\}&mode=inline">
+
+Jika U adalah User melakukan transaksi, M proses penerbitan token berhasil dan B proses pembakaran token berhasil maka operasi akan berhasil dilakukan jika :
+
+<img src="https://render.githubusercontent.com/render/math?math=((U \subset O \to M) \land ((U \subset O) \to B))&mode=inline">
+
+Proses penerbitan token pembakaran token akan gagal jika :
+
+<img src="https://render.githubusercontent.com/render/math?math=((U \notin O \to \neg M) \land (U \notin O \to \neg B))&mode=inline">
 
