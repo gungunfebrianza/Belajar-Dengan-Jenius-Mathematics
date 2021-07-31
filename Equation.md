@@ -1,3 +1,9 @@
+# Term
+
+Term adalah sebuah **Mathematical Expression** tunggal.
+
+Contoh : 3x adalah **Single Term**, angka **3** adalah sebuah **Coefficient** dan **X** adalah sebuah **Variable**.
+
 # Equation
 
 **Equation** adalah terminologi yang digunakan untuk menjelaskan dua hal yang setara dalam matematika.
@@ -11,7 +17,7 @@ Equation menegaskan bahwa <img src="https://render.githubusercontent.com/render/
 ## Equation Structure 
 
 Pada <img src="https://render.githubusercontent.com/render/math?math=8X-4=16"> kita dapat membedah structure yang dimilikinya :  
-  
+
   <img src="assets/Equation Structure.png">
 
 Pada **Equation** di atas terdapat satu buah **Coefficient** yaitu 8, **Coefficient** adalah sebuah **Number** yang akan melakukan operasi **Multiply** terhadap suatu **Variable**. Pada **Equation** di atas <img src="https://render.githubusercontent.com/render/math?math=X"> adalah sebuah **Variable** yang akan menjadi **Operand** untuk operasi **Multiply** dengan **Coefficient** 8.
@@ -23,7 +29,7 @@ Pada **Equation** di atas terdapat dua buah **Constant** yang nilainya sudah dik
 Jika diurai lebih dalam lagi pada Equation <img src="https://render.githubusercontent.com/render/math?math=8X-4=16"> terdapat sebuah **Expression** dan **Terms** :
 
   <img src="assets/Equation-Expression.png">  
-  
+
 Istilah **Term** digunakan untuk menjelaskan sebuah angka tunggal dan **variable** tunggal.  
 
 Istilah **Expression** digunakan untuk menjelaskan sekumpulan Term yang akan memproduksi sebuah nilai.
