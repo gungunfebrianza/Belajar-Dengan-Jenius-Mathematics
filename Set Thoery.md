@@ -73,7 +73,7 @@ Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin k
 - Seluruh bilangan genap dapat dibagi dengan angka 2
 - 9-3 = 2
 
-**Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan Atomic Composition kita dapat membangun **Composite Proposition** menggunakan **Logical World** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
+**Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan Atomic Composition kita dapat membangun **Composite Proposition** menggunakan **Logical Words** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
 
 - Jakarta adalah Ibu Kota Thailand **and** Mas Gun Tampan
 - 9-3 = 2 or Seluruh bilangan genap dapat dibagi dengan angka 2
@@ -84,7 +84,9 @@ Sebuah **Composite Proposition** yang tetap **independent** tanpa terpengaruh ol
 
 ### Atomic & Composite Formula
 
-Proposition disederhanakan dengan membuat **abstraction** secara simbolik.
+**Proposition** disederhanakan dengan membuat **abstraction** secara simbolik. **Sebuah Composite Proposition** tersusun dari **Atomic Proposition** dan **Logical Words**. **Symbolic Language** dibuat untuk merepresentasikan **Atomic Proposition** ke dalam sebuah **Propositional Variable**s.
+
+Contoh **Propositional Variable** adalah **variable** seperti **x,y,z** dan sebagainya. **Propositional Variable** disebut juga sebagai **Atomic Formula**.
 
 ### Propositional Variable 
 
