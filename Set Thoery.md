@@ -48,21 +48,31 @@ Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat sep
 
 Contoh **Proposition** :
 
-1. 5+5 = 10
-2. Rumput berwarna hijau
-3. Maudy artis cantik idaman Mas Gun
+- 5+5 = 10
+- Rumput berwarna hijau
+- Maudy artis cantik idaman Mas Gun
 
 Di bawah ini bukan sebuah **Proposition** :
 
-1. Hahaha
-2. Kapan nikah ?
-3. O gitu ya
+- Hahaha
+- Kapan nikah ?
+- O gitu ya
 
+### Atomic & Composite Proposition
 
+Biasanya kita akan merecah (divide) sebuah proposition menjadi semakin kecil dan lebih kecil lagi sampai ke level atomic. Pada level atomic sebuah proposition sudah tidak dapat direcah lagi :
+
+- 
+
+### Propositional Variable 
+
+### Connective
+
+Logic adalah study tentang ilmu membuat argumen sehingga untuk mempelajari argumen seseorang harus melakukan study terlebih dahulu tentang statement.
 
 ## Symbolic Logic
 
-**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**. Logic adalah study tentang ilmu membuat argumen,
+**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**. ,
 
 ## Inference
 
