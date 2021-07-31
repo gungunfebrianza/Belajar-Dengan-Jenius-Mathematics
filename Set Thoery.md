@@ -9,10 +9,30 @@
 
 **Number Set :**
 
-1. <img src="https://render.githubusercontent.com/render/math?math=\mathbb{Z}&mode=inline"> adalah Set of Integer : <img src="https://render.githubusercontent.com/render/math?math=\{-3,-2,-1,0,1,2,3\}&mode=inline">
+1. <img src="https://render.githubusercontent.com/render/math?math=\mathbb{Z}&mode=inline"> adalah **Set of Integer** : <img src="https://render.githubusercontent.com/render/math?math=\{-3,-2,-1,0,1,2,3\}&mode=inline">
 2. <img src="https://render.githubusercontent.com/render/math?math=\mathbb{N}&mode=inline">adalah Set of Natural Number: <img src="https://render.githubusercontent.com/render/math?math=\{0,1,2,3\}&mode=inline">
 3. <img src="https://render.githubusercontent.com/render/math?math=\emptyset&mode=inline"> dan <img src="https://render.githubusercontent.com/render/math?math=\{\}&mode=inline"> adalah simbol dari Empty Set
 4. <img src="https://render.githubusercontent.com/render/math?math=\{\emptyset\}&mode=inline"> adalah set yang memiliki satu element
+
+
+
+**Example Number Set :**
+
+ROXI TOKEN
+
+Jika **variable p** adalah nilai dari **Initial Supply**, maka aturan internal **Ethereum Virtual Machine (EVM)** untuk melakukan **pre-minting** jika nilai decimal adalah nol berada pada **set builder** berikut :
+
+<img src="https://render.githubusercontent.com/render/math?math=\{p \ | p \ \in \ \mathbb{Z}* \ \land \ \max(2^256)^-1 \}&mode=inline">
+
+**Roxy Token** menggunakan nilai 18 decimal menggunakan **Standard ERC-20** sehingga nilai **pre-minting** berada pada **set builder** berikut :
+
+<img src="https://render.githubusercontent.com/render/math?math=\{p \ | p \ \in \ \mathbb{Z}* \ \land \ (\max(2^256)^-1)/10^18 \}&mode=inline">
+
+Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara internal representasinya adalah 1.000.000.000.000.000.000.000.000 menyerupai unit **Wei** dalam **Currency Standard Metric** dalam **Ethereum Protocol**.
+
+
+
+
 
 **Set Builder :**
 
