@@ -80,6 +80,12 @@ Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin k
 
 Pertanyaan selanjutnya adalah apakah kebenaran suatu **Composite Proposition** tergantung atau ditentukan dari **Atomic Proposition**?
 
+Sebuah **Composite Proposition** yang tetap **independent** tanpa terpengaruh oleh **truth value** dari **Atomic Proposition** disebut dengan **Tautologies**.
+
+### Atomic & Composite Formula
+
+Proposition disederhanakan dengan membuat **abstraction** secara simbolik.
+
 ### Propositional Variable 
 
 ### Connective
