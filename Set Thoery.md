@@ -46,17 +46,23 @@ Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat sep
 
 **Proposition** adalah sesuatu yang dapat bernilai **true** atau **false**. Dapat berupa suatu **statement**, **utterance** atau sebuah **content of meaning**. 
 
-Contoh **Proposition** :
+Contoh **statement** yang valid sebagai **Proposition** :
 
 - 5+5 = 10
 - Rumput berwarna hijau
 - Maudy artis cantik idaman Mas Gun
 
-Di bawah ini bukan sebuah **Proposition** :
+Di bawah ini bukan sebuah **statement** yang valid untuk **Proposition** :
 
 - Hahaha
 - Kapan nikah ?
 - O gitu ya
+
+Di bawah ini adalah **ambiguous statement** sehingga validitas **Proposition** tidak bisa diketahui :
+
+- x > 6
+- Susu Beruang rasanya enak
+- Nanti pasti hutangnya saya bayar <-- 99.9% FIX
 
 ### Atomic & Composite Proposition
 
@@ -69,9 +75,22 @@ Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin k
 
 **Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan Atomic Composition kita dapat membangun **Composite Proposition** menggunakan **Logical World** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
 
+- Jakarta adalah Ibu Kota Thailand **and** Mas Gun Tampan
+- 9-3 = 2 or Seluruh bilangan genap dapat dibagi dengan angka 2
+
+Pertanyaan selanjutnya adalah apakah kebenaran suatu **Composite Proposition** tergantung atau ditentukan dari **Atomic Proposition**?
+
 ### Propositional Variable 
 
 ### Connective
+
+Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut dengan **Connectives** :
+
+1. **not** (**negation**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline">
+2. **and** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">
+3. **or** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">
+4. if-then dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
+5. **if-and-only-if** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline">
 
 Logic adalah study tentang ilmu membuat argumen sehingga untuk mempelajari argumen seseorang harus melakukan study terlebih dahulu tentang statement.
 
