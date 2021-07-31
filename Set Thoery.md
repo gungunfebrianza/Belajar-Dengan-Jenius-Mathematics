@@ -118,7 +118,15 @@ Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut deng
 4. **if-then** (**implication**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
 5. **if-and-only-if** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline">
 
+Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It's Winter**" :
 
+1. ¬p = Today is not Saturday 
+2. ¬q = It is not winter.
+3. p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is Saturday and it is winter.
+4. ¬p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is not Saturday and it is winter.
+5. p <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline"> q = Today is Saturday or it is winter.
+6. p <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline"> q = If today is Saturday then it is winter.
+7. p <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline"> q = Today is Saturday if-and-only-if it is winter.=
 
 ## Symbolic Logic
 
