@@ -138,29 +138,25 @@ Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut deng
 
 # Example
 
-Terdapat 3 Owner, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
+Terdapat 3 Owner yang direpresentasikan dengan variable a, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
 
 O<img src="https://render.githubusercontent.com/render/math?math==  \{a_1,a_2,a_3\}&mode=inline">
 
-Skema 2 of 3 multisig transaction direpresentasikan dengan 2 notasi tuple, kita harus memilih salah satunya: 
+Jika simbol U adalah individual user melakukan transaksi maka terdapat dua jenis user :
 
-<img src="https://render.githubusercontent.com/render/math?math=(%3C \{x|x \in \ O\}, \{x|x \in \ O\} %3E) \lor (%3C \{x|x \in \ O\}, \{x|x \in \ O\}, \{x|x \in \ O\} %3E)"> 
+<img src="https://render.githubusercontent.com/render/math?math=(U \in O) \land (U \notin O)&mode=inline">
 
-Dengan syarat representasi Owner contract harus berbeda-beda sehingga  :
+Pada <img src="https://render.githubusercontent.com/render/math?math=(U \in O)&mode=inline">terdapat 3 proper subset dan 1 subset owner yang dapat dibentuk sebagai Legitimate Owner untuk melakukan 2 of 3 multisig address :
 
-<img src="https://render.githubusercontent.com/render/math?math=p_1(e) \neq p_2(e) &mode=inline"> 
+<img src="https://render.githubusercontent.com/render/math?math=(\{a_1, a_2\})\lor(\{a_1, a_3\})\lor(\{a_2, a_3\})\lor(\{a_1, a_2, a_3\})&mode=inline">
 
-Dan pada  3n-tuple
+Jika L adalah simbol legitimate user melakukan transaksi maka terdapat syarat :
 
- <img src="https://render.githubusercontent.com/render/math?math=\{x | \ x \ \in O \ \ \}&mode=inline">tuple dalam notasi set builder :
+<img src="https://render.githubusercontent.com/render/math?math=\{(|L|\neq \emptyset) \land (|L| \gt 1) \land (|L| \le 3)\}&mode=inline">
 
+M merepresentasikan proses penerbitan token berhasil dan B proses pembakaran token berhasil maka operasi akan berhasil dilakukan jika :
 
-
-<img src="https://render.githubusercontent.com/render/math?math=\{x \ \in O \ \ | \ \ x \ \ |O|\}&mode=inline">
-
-Jika U adalah User melakukan transaksi, M proses penerbitan token berhasil dan B proses pembakaran token berhasil maka operasi akan berhasil dilakukan jika :
-
-<img src="https://render.githubusercontent.com/render/math?math=((U \subset O \to M) \land ((U \subset O) \to B))&mode=inline">
+<img src="https://render.githubusercontent.com/render/math?math=((L \to M) \land (L \to B))&mode=inline">
 
 Proses penerbitan token pembakaran token akan gagal jika :
 
