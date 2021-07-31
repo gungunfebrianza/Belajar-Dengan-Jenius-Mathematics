@@ -14,9 +14,17 @@
 3. <img src="https://render.githubusercontent.com/render/math?math=\emptyset&mode=inline"> dan <img src="https://render.githubusercontent.com/render/math?math=\{\}&mode=inline"> adalah simbol dari Empty Set
 4. <img src="https://render.githubusercontent.com/render/math?math=\{\emptyset\}&mode=inline"> adalah set yang memiliki satu element
 
+**Set Builder :**
 
+1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \has \the \property P\}&mode=inline">
+2. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{n \ | \ \ n \in \mathbb{N} \ \ \and n %3C 108\}&mode=inline">
+3. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{X \ | \ \ X \ \is \person \\over \ \the \age 18\}&mode=inline">
 
-**Example Number Set :**
+**Set Builder, Short Notation :**
+
+1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \in A \  \and x \ \has \the \property P\}&mode=inline">di persingkat menjadi Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ \in A \ \ | \ \ x \ \ \has \the \property P\}&mode=inline">
+
+**Example Set Builder :**
 
 ROXI TOKEN
 
@@ -30,23 +38,31 @@ Jika **variable p** adalah nilai dari **Initial Supply**, maka aturan internal *
 
 Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara internal representasinya adalah 1.000.000.000.000.000.000.000.000 menyerupai unit **Wei** dalam **Currency Standard Metric** dalam **Ethereum Protocol**.
 
-**Set Builder :**
-
-1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \has \the \property P\}&mode=inline">
-2. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{n \ | \ \ n \in \mathbb{N} \ \ \and n %3C 108\}&mode=inline">
-3. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{X \ | \ \ X \ \is \person \\over \ \the \age 18\}&mode=inline">
-
-**Set Builder, Short Notation :**
-
-1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \in A \  \and x \ \has \the \property P\}&mode=inline">di persingkat menjadi Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ \in A \ \ | \ \ x \ \ \has \the \property P\}&mode=inline">
-
-
-
 # Propositional Logic
+
+Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat seperti saat kita berbicara dengan teman, berdebat dalam diskusi atau merencanakan masa depan dengan pasangan kita. Penilaian logika ditentukan dari sekumpulan informasi yang disebut dengan asumsi.
+
+## Proposition
+
+**Proposition** adalah sesuatu yang dapat bernilai **true** atau **false**. Dapat berupa suatu **statement**, **utterance** atau sebuah **content of meaning**. 
+
+Contoh **Proposition** :
+
+1. 5+5 = 10
+2. Rumput berwarna hijau
+3. Maudy artis cantik idaman Mas Gun
+
+Di bawah ini bukan sebuah **Proposition** :
+
+1. Hahaha
+2. Kapan nikah ?
+3. O gitu ya
+
+
 
 ## Symbolic Logic
 
-**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**.
+**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**. Logic adalah study tentang ilmu membuat argumen,
 
 ## Inference
 
