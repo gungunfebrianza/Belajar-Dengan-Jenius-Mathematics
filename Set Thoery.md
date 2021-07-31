@@ -60,9 +60,14 @@ Di bawah ini bukan sebuah **Proposition** :
 
 ### Atomic & Composite Proposition
 
-Biasanya kita akan merecah (divide) sebuah proposition menjadi semakin kecil dan lebih kecil lagi sampai ke level atomic. Pada level atomic sebuah proposition sudah tidak dapat direcah lagi :
+Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin kecil dan lebih kecil lagi sampai ke level **atomic**. Pada level **atomic** sebuah **proposition** sudah tidak dapat direcah lagi :
 
-- 
+- Jakarta adalah Ibu Kota Thailand
+- Mas Gun Tampan
+- Seluruh bilangan genap dapat dibagi dengan angka 2
+- 9-3 = 2
+
+**Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan Atomic Composition kita dapat membangun **Composite Proposition** menggunakan **Logical World** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
 
 ### Propositional Variable 
 
