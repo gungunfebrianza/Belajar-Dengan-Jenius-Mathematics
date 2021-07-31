@@ -1,8 +1,12 @@
 # Term
 
-Term adalah sebuah **Mathematical Expression** tunggal.
+**Term** adalah sebuah **Mathematical Expression** tunggal.
 
-Contoh : 3x adalah **Single Term**, angka **3** adalah sebuah **Coefficient** dan **X** adalah sebuah **Variable**.
+Contoh : 
+
+1. **3x** adalah **Single Term**, angka **3** adalah sebuah **Coefficient** dan **X** adalah sebuah **Variable**.
+2. <img src="https://render.githubusercontent.com/render/math?math=-5x^2y^2z^2&mode=inline"> juga sebuah **Single Term** dan <img src="https://render.githubusercontent.com/render/math?math=x^2y^2z^2&mode=inline"> adalah **variables**.
+3. **12** adalah **Single Term** sebuah **numerical term** yang disebut dengan **Constant**.
 
 # Equation
 
