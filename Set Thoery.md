@@ -30,10 +30,6 @@ Jika **variable p** adalah nilai dari **Initial Supply**, maka aturan internal *
 
 Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara internal representasinya adalah 1.000.000.000.000.000.000.000.000 menyerupai unit **Wei** dalam **Currency Standard Metric** dalam **Ethereum Protocol**.
 
-
-
-
-
 **Set Builder :**
 
 1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \has \the \property P\}&mode=inline">
@@ -44,7 +40,23 @@ Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara inte
 
 1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \in A \  \and x \ \has \the \property P\}&mode=inline">di persingkat menjadi Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ \in A \ \ | \ \ x \ \ \has \the \property P\}&mode=inline">
 
-## Note URL Encoding :
+
+
+# Propositional Logic
+
+## Symbolic Logic
+
+**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**.
+
+## Inference
+
+## Replacement
+
+## Proof Methods
+
+## The Three Properties
+
+## Note URL Encoding 
 
 1. %3C - Encoded Symbol of <
 2. %3E - Encoded Symbol of >

@@ -13,7 +13,6 @@ Contoh :
 5. **5x + 7y** disebut sebagai **Two Termed Expression**.
 6. <img src="https://render.githubusercontent.com/render/math?math=-5x^2y^2z^2 %2B 3x^2 %2B 5y&mode=inline"> disebut sebagai **Three Termed Expression**.
 7. <img src="https://render.githubusercontent.com/render/math?math=2x^2 \ \ \and 4x^2&mode=inline"> disebut sebagai **Like Term** karena sama sama memiliki **variable** <img src="https://render.githubusercontent.com/render/math?math=x^2&mode=inline">
-8. 
 
 # Equation
 
@@ -40,4 +39,3 @@ Pada **Equation** di atas terdapat dua buah **Constant** yang nilainya sudah dik
 Jika diurai lebih dalam lagi pada Equation <img src="https://render.githubusercontent.com/render/math?math=8X-4=16"> terdapat sebuah **Expression** dan **Terms** :
 
   <img src="assets/Equation-Expression.png">  
-
