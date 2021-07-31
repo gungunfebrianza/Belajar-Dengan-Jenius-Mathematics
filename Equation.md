@@ -1,6 +1,8 @@
 # Term
 
-**Term** adalah sebuah **Mathematical Expression** tunggal.
+**Term** adalah sebuah **Mathematical Expression** tunggal. Istilah **Term** digunakan untuk menjelaskan sebuah angka tunggal dan **variable** tunggal.  
+
+Istilah **Expression** digunakan untuk menjelaskan sekumpulan Term yang akan memproduksi sebuah nilai.
 
 Contoh : 
 
@@ -9,6 +11,9 @@ Contoh :
 3. **12** adalah **Single Term** sebuah **numerical term** yang disebut dengan **Constant**.
 4. **w** juga disebut sebagai **Single Term**, sebuah **variable** tunggal dan bermakna **1 Coefficient** 
 5. **5x + 7y** disebut sebagai **Two Termed Expression**.
+6. <img src="https://render.githubusercontent.com/render/math?math=-5x^2y^2z^2 %2B 3x^2 %2B 5y&mode=inline"> disebut sebagai **Three Termed Expression**.
+7. <img src="https://render.githubusercontent.com/render/math?math=2x^2 \ \ \and 4x^2&mode=inline"> disebut sebagai **Like Term** karena sama sama memiliki **variable** <img src="https://render.githubusercontent.com/render/math?math=x^2&mode=inline">
+8. 
 
 # Equation
 
@@ -18,7 +23,7 @@ Sebagai contoh pada <img src="https://render.githubusercontent.com/render/math?m
 
 Disebelah kiri sebelum simbol <img src="https://render.githubusercontent.com/render/math?math=="> terdapat sebuah ekspresi <img src="https://render.githubusercontent.com/render/math?math=X%2b4"> dan di sebelah kanan setelah simbol <img src="https://render.githubusercontent.com/render/math?math=="> terdapat angka 8.
 
-Equation menegaskan bahwa <img src="https://render.githubusercontent.com/render/math?math=X%2b4"> setara dengan 8.
+**Equation** menegaskan bahwa <img src="https://render.githubusercontent.com/render/math?math=X%2b4"> setara dengan 8.
 
 ## Equation Structure 
 
@@ -36,6 +41,3 @@ Jika diurai lebih dalam lagi pada Equation <img src="https://render.githubuserco
 
   <img src="assets/Equation-Expression.png">  
 
-Istilah **Term** digunakan untuk menjelaskan sebuah angka tunggal dan **variable** tunggal.  
-
-Istilah **Expression** digunakan untuk menjelaskan sekumpulan Term yang akan memproduksi sebuah nilai.

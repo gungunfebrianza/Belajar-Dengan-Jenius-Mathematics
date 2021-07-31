@@ -18,9 +18,11 @@
 
 1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \has \the \property P\}&mode=inline">
 2. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{n \ | \ \ n \in \mathbb{N} \ \ \and n %3C 108\}&mode=inline">
-3. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{X \ | \ \ X \ \is \person \\over \the \age 18\}&mode=inline">
+3. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{X \ | \ \ X \ \is \person \\over \ \the \age 18\}&mode=inline">
 
+**Set Builder, Short Notation :**
 
+1. Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ | \ \ x \ \ \in A \  \and x \ \has \the \property P\}&mode=inline">di persingkat menjadi Contoh : <img src="https://render.githubusercontent.com/render/math?math=\{x \ \in A \ \ | \ \ x \ \ \has \the \property P\}&mode=inline">
 
 ## Note URL Encoding :
 
@@ -28,4 +30,5 @@
 2. %3E - Encoded Symbol of >
 3. %22 - Encoded Symbol of "
 4. %27 - Encoded Symbol '
+5. %2B - Encoded Symbol +
 
