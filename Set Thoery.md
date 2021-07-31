@@ -46,9 +46,11 @@ Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara inte
 
 Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat seperti saat kita berbicara dengan teman, berdebat dalam diskusi atau merencanakan masa depan dengan pasangan kita. Penilaian logika ditentukan dari sekumpulan informasi yang disebut dengan asumsi.
 
+Selain untuk diri kira **logic** juga menjadi **fundamental** untuk memahami dunia **Computer Science**, seperti **Software Engineering**, **Big Data**, **Cryptography**, **Artificial Intelligence**.
+
 ## Proposition
 
-**Proposition** adalah sesuatu yang dapat bernilai **true** atau **false**. Dapat berupa suatu **statement**, **utterance** atau sebuah **content of meaning**. 
+**Proposition** adalah suatu **statement** yang dapat bernilai **true** atau **false**. Jika kita mengetahui kebenaran dari suatu **Proposition** baik itu **true** atau **false** maka kebenaran disebut dengan **Truth Value**.
 
 Contoh **statement** yang valid sebagai **Proposition** :
 
@@ -66,7 +68,9 @@ Di bawah ini adalah **ambiguous statement** sehingga validitas **Proposition** t
 
 - x > 6
 - Susu Beruang rasanya enak
-- Nanti pasti hutangnya saya bayar <-- 99.9% FIX
+- Anda merasa tampan
+
+Pada statement ketiga bisa jadi sebuah paradox.
 
 ### Atomic & Composite Proposition
 
