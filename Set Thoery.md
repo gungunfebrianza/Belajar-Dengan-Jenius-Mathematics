@@ -168,7 +168,9 @@ Hasilnya adalah :
 
 <img src="https://render.githubusercontent.com/render/math?math==9&mode=inline">
 
+## Example Roxy Function
 
+<img src="https://render.githubusercontent.com/render/math?math=f(x)=P%2Bx&mode=inline">
 
 
 
