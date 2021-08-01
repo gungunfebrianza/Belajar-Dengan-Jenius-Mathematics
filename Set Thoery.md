@@ -172,7 +172,7 @@ Hasilnya adalah :
 
 <img src="https://render.githubusercontent.com/render/math?math=f(x)=P%2Bx&mode=inline">
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{n=1}^{18} (n%2B250.000)&mode=inline">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{n=1}^{18} (250.000)=4.500.000&mode=inline">
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{n=1}^{+\infty} n\%2Bn&mode=inline">
 
