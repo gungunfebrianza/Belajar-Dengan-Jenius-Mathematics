@@ -1,3 +1,5 @@
+# Algorithm
+
 # Set Theory
 
 **Set** adalah sebuah **finite** atau **infinite** dari sekumpulan objek dan objek dalam sebuah **set** disebut dengan **element**.
@@ -148,6 +150,10 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 4. %27 - Encoded Symbol '
 5. %2B - Encoded Symbol +
 
+# Function
+
+
+
 # Example
 
 Terdapat 3 Owner yang direpresentasikan dengan variable a, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
@@ -158,19 +164,19 @@ Jika simbol U adalah individual user melakukan transaksi maka terdapat dua jenis
 
 <img src="https://render.githubusercontent.com/render/math?math=(U \in O) \land (U \notin O)&mode=inline">
 
-Pada <img src="https://render.githubusercontent.com/render/math?math=(U \in O)&mode=inline">terdapat 3 proper subset dan 1 subset owner yang dapat dibentuk sebagai Legitimate Owner untuk melakukan 2 of 3 multisig address :
+Pada <img src="https://render.githubusercontent.com/render/math?math=(U \in O)&mode=inline">terdapat proper subset dan subset owner yang dapat dibentuk sebagai Legitimate Multisig Owners (LMO) untuk melakukan 2 of 3 multisig address :
 
-<img src="https://render.githubusercontent.com/render/math?math=(\{a_1, a_2\})\lor(\{a_1, a_3\})\lor(\{a_2, a_3\})\lor(\{a_1, a_2, a_3\})&mode=inline">
+<img src="https://render.githubusercontent.com/render/math?math=\LMO= \{\{a_1, a_2\},\{a_1, a_3\},\{a_2, a_3\},\{a_1, a_2, a_3\}\}&mode=inline">
 
-Jika L adalah simbol legitimate user melakukan transaksi maka terdapat syarat :
+Legitimate Multisig Owners (LMO) dapat melakukan transaksi, dengan syarat :
 
-<img src="https://render.githubusercontent.com/render/math?math=\{(|L|\neq \emptyset) \land (|L| \gt 1) \land (|L| \le 3)\}&mode=inline">
+<img src="https://render.githubusercontent.com/render/math?math=((|LMO|\neq \emptyset) \land (|LMO| \gt 1) \land (|LMO| \le 3))&mode=inline">
 
-M merepresentasikan proses penerbitan token berhasil dan B proses pembakaran token berhasil maka operasi akan berhasil dilakukan jika :
+Variable M merepresentasikan proses penerbitan token yang berhasil dan variable B merepresentasikan proses pembakaran token yang berhasil, maka operasi akan berhasil dilakukan jika :
 
-<img src="https://render.githubusercontent.com/render/math?math=((L \to M) \land (L \to B))&mode=inline">
+<img src="https://render.githubusercontent.com/render/math?math=((LMO \to M) \land (LMO \to B))&mode=inline">
 
-Proses penerbitan token pembakaran token akan gagal jika :
+Proses penerbitan token dan pembakaran token akan gagal jika :
 
 <img src="https://render.githubusercontent.com/render/math?math=((U \notin O \to \neg M) \land (U \notin O \to \neg B))&mode=inline">
 
