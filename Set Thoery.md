@@ -152,9 +152,9 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 
 # Function
 
+**Function** digunakan agar kita dapat menerapkan sebuah **rule** yang akan diberi **input** dan menghasilkan sebuah **Output**.
 
-
-# Example
+# Example Roxy
 
 Terdapat 3 Owner yang direpresentasikan dengan variable a, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
 

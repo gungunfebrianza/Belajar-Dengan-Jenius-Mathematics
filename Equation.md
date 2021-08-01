@@ -39,3 +39,6 @@ Pada **Equation** di atas terdapat dua buah **Constant** yang nilainya sudah dik
 Jika diurai lebih dalam lagi pada Equation <img src="https://render.githubusercontent.com/render/math?math=8X-4=16"> terdapat sebuah **Expression** dan **Terms** :
 
   <img src="assets/Equation-Expression.png">  
+
+# Summation
+
