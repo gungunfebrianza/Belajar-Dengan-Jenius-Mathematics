@@ -154,6 +154,24 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 
 **Function** digunakan agar kita dapat menerapkan sebuah **rule** yang akan diberi **input** dan menghasilkan sebuah **Output**.
 
+Di bawah ini adalah contoh **Function** :
+
+<img src="https://render.githubusercontent.com/render/math?math=f(x)=x^2&mode=inline">
+
+Jika input x adalah 3 maka :
+
+<img src="https://render.githubusercontent.com/render/math?math=f(3)=3^2&mode=inline">
+
+Hasilnya adalah :
+
+<img src="https://render.githubusercontent.com/render/math?math=f(3)=3\times3&mode=inline">
+
+<img src="https://render.githubusercontent.com/render/math?math==9&mode=inline">
+
+
+
+
+
 # Example Roxy
 
 Terdapat 3 Owner yang direpresentasikan dengan variable a, Owner 1,2 dan 3 adalah pemilik contract yang akan direpresentasikan dengan set O :
