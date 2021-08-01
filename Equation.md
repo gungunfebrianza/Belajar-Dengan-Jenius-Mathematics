@@ -42,3 +42,11 @@ Jika diurai lebih dalam lagi pada Equation <img src="https://render.githubuserco
 
 # Summation
 
+**Sigma Reference :**
+
+- https://www.mathsisfun.com/algebra/sigma-notation.html
+- https://www.google.co.id/books/edition/Further_Pure_Maths_1/wQgUXNN6pYYC?hl=id&gbpv=1&dq=sigma+notation&pg=PA122&printsec=frontcover
+- https://www.google.co.id/books/edition/Linear_Algebra_with_Mathematica/aqruCh5Hb2cC?hl=id&gbpv=1&dq=sigma+math+algebra&pg=RA3-PP3&printsec=frontcover
+- https://www.varsitytutors.com/hotmath/hotmath_help/topics/sigma-notation-of-a-series
+- https://www.varsitytutors.com/hotmath/hotmath_help/topics/sum-of-the-first-n-terms-of-a-series.html
+- https://www.varsitytutors.com/hotmath/hotmath_help/topics/series.html
