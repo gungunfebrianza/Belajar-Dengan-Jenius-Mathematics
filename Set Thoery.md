@@ -120,6 +120,17 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 6. p <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline"> q = If today is Saturday then it is winter.
 7. p <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline"> q = Today is Saturday if-and-only-if it is winter.=
 
+### Truth Tables
+
+|  P   |  Q   | P<img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">Q |
+| :--: | :--: | :----------------------------------------------------------: |
+|  T   |  T   |                              T                               |
+|  T   |  F   |                              F                               |
+|  F   |  T   |                              F                               |
+|  F   |  F   |                              F                               |
+
+
+
 ### Symbolic Language
 
 Kunci mempelajari matematika adalah tahu kapan harus menggunakan **symbol** dan kapan harus menggunakan kalimat.
