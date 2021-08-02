@@ -120,6 +120,10 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 6. p <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline"> q = If today is Saturday then it is winter.
 7. p <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline"> q = Today is Saturday if-and-only-if it is winter.=
 
+### Symbolic Language
+
+Kunci mempelajari matematika adalah tahu kapan harus menggunakan **symbol** dan kapan harus menggunakan kalimat.
+
 ### Atomic & Composite Proposition
 
 Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin kecil dan lebih kecil lagi sampai ke level **atomic**. Pada level **atomic** sebuah **proposition** sudah tidak dapat direcah lagi :
@@ -184,7 +188,13 @@ Hasilnya adalah :
 
 ## Example Roxy Function
 
+**Minting Example :**
+
 <img src="https://render.githubusercontent.com/render/math?math=f(x)=P%2Bx&mode=inline">
+
+**Burning Example :**
+
+<img src="https://render.githubusercontent.com/render/math?math=f(x)=P-x&mode=inline">
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{n=1}^{18} (250.000)=4.500.000&mode=inline">
 
