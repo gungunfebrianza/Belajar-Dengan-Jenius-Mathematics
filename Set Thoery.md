@@ -74,9 +74,51 @@ Di bawah ini adalah **ambiguous statement** sehingga validitas **Proposition** t
 
 Pada statement ketiga bisa jadi sebuah paradox.
 
-### Logical Form & Logical Equivalence
+### Logical Form
 
-Simbol memerankan peran kritis dalam matematika saat kita mendiskusikan **logic** dari sebuah **propositional** kita harus menggunakan simbol untuk merepresentasikan suatu **statement**. Biasanya menggunakan huruf kapital, sebagai contoh kita dapat menggunakan huruf **M** yang merepresentasikan **"Maudy sedang bersama Mas Gun"** dan kita dapat menggunakan hurug **G** untuk merepresentasikan **"Mas Gun berada di Eropa"**.
+Simbol memerankan peran kritis dalam matematika saat kita mendiskusikan **logic** dari sebuah **propositional** kita harus menggunakan simbol untuk merepresentasikan suatu **statement**. Biasanya menggunakan huruf kapital, sebagai contoh kita dapat menggunakan huruf **M** yang merepresentasikan **"Maudy sedang bersama Mas Gun"** dan kita dapat menggunakan hurug **G** untuk merepresentasikan **"Mas Gun tidak sedang bersama Maudy"**.
+
+**Logical Form** dari **Statement** di atas adalah :
+
+<img src="https://render.githubusercontent.com/render/math?math=M \land \neg G&mode=inline">
+
+
+
+Simbol<img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> merepresentasikan kalimat "dan", jadi jika **logical form** dalam **mathematical statement** di atas diubah ke dalam bahasa indonesia (**Natural Language**) maknannya adalah :
+
+**"Maudy sedang bersama Mas Gun dan Mas Gun tidak sedang bersama Maudy"**
+
+Jika **Logical Form** dari **Statement** di atas diubah menjadi<img src="https://render.githubusercontent.com/render/math?math=\neg M \land G&mode=inline"> maka dalam bahasa indonesia maknannya adalah :
+
+**"Maudy tidak sedang bersama Mas Gun dan Mas Gun sedang bersama Maudy"**
+
+Jika **Logical Form** dari **Statement** di atas diubah menjadi<img src="https://render.githubusercontent.com/render/math?math=M \land G&mode=inline"> maka dalam bahasa indonesia maknannya adalah :
+
+**"Maudy sedang bersama Mas Gun dan Mas Gun sedang bersama Maudy"**
+
+Simbol<img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline"> merepresentasikan kalimat "tidak", simbol-simbol ini disebut dengan **connectives**.
+
+### Connectives
+
+**Connectives** adalah bagian dari **Symbolic Language**. Simbol-simbol tersebut akan digunakan untuk menggabungkan sekumpulan **proposition**.
+
+Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut dengan **Connectives** :
+
+1. **not** (**negation**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline">
+2. **and** (**conjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">
+3. **or** (**disjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">
+4. **if-then** (**implication**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
+5. **if-and-only-if** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline">
+
+Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It's Winter**" :
+
+1. ¬p = Today is not Saturday 
+2. ¬q = It is not winter.
+3. p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is Saturday and it is winter.
+4. ¬p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is not Saturday and it is winter.
+5. p <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline"> q = Today is Saturday or it is winter.
+6. p <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline"> q = If today is Saturday then it is winter.
+7. p <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline"> q = Today is Saturday if-and-only-if it is winter.=
 
 ### Atomic & Composite Proposition
 
@@ -87,7 +129,7 @@ Biasanya kita akan merecah (**divide**) sebuah **proposition** menjadi semakin k
 - Seluruh bilangan genap dapat dibagi dengan angka 2
 - 9-3 = 2
 
-**Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan Atomic Composition kita dapat membangun **Composite Proposition** menggunakan **Logical Words** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
+**Atomic Composition** dalam **Mathematical Logic** itu ditentukan secara bebas,  dari sekumpulan **Atomic Composition** kita dapat membangun **Composite Proposition** menggunakan **Logical Words** seperti **and**, **or** atau **not** dan **if** atau **then**. Di bawah ini adalah contoh **Composite Proposition** :
 
 - Jakarta adalah Ibu Kota Thailand **and** Mas Gun Tampan
 - 9-3 = 2 or Seluruh bilangan genap dapat dibagi dengan angka 2
@@ -112,39 +154,7 @@ Simbol yang digunakan untuk merepresentasikan **Propositional Variable** tidak d
 
 **Proposition** bersifat **concrete** dan **Variable** bersifat **abstract**.
 
-### Connective
-
-**Connectives** adalah bagian dari **Symbolic Language**. Simbol-simbol tersebut akan digunakan untuk menggabungkan sekumpulan formula.
-
-Sekumpulan **proposition** dapat terhubung menggunakan 5 frasa yang disebut dengan **Connectives** :
-
-1. **not** (**negation**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline">
-2. **and** (**conjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">
-3. **or** (**disjunction**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">
-4. **if-then** (**implication**) dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline">
-5. **if-and-only-if** dengan simbol <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline">
-
-Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It's Winter**" :
-
-1. ¬p = Today is not Saturday 
-2. ¬q = It is not winter.
-3. p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is Saturday and it is winter.
-4. ¬p <img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline"> q = Today is not Saturday and it is winter.
-5. p <img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline"> q = Today is Saturday or it is winter.
-6. p <img src="https://render.githubusercontent.com/render/math?math=\to&mode=inline"> q = If today is Saturday then it is winter.
-7. p <img src="https://render.githubusercontent.com/render/math?math=\leftrightarrow&mode=inline"> q = Today is Saturday if-and-only-if it is winter.=
-
-## Symbolic Logic
-
-**Mathematical Object** berwujud **Abstract** contohnya **Equation** dalam **Algebra** atau **Point** dan **Lines** pada **Geometry**. ,
-
-## Inference
-
-## Replacement
-
-## Proof Methods
-
-## The Three Properties
+7. 
 
 ## Note URL Encoding 
 
