@@ -46,7 +46,7 @@ Total **pre-minting** dari **roxy token** sebesar **1.000.000** maka secara inte
 
 # Propositional Logic
 
-Setiap hari kita menggunakan **logic** dan **logical reasoning** setiap saat seperti saat kita berbicara dengan teman, berdebat dalam diskusi atau merencanakan masa depan dengan pasangan kita. Penilaian logika ditentukan dari sekumpulan informasi yang disebut dengan asumsi.
+Setiap hari kita menggunakan **logic** dan **logical reasoning** seperti saat kita berbicara dengan teman, berdebat dalam diskusi atau merencanakan masa depan dengan pasangan kita. Penilaian logika ditentukan dari sekumpulan informasi yang disebut dengan asumsi.
 
 Selain untuk diri kira **logic** juga menjadi **fundamental** untuk memahami dunia **Computer Science**, seperti **Software Engineering**, **Big Data**, **Cryptography**, **Artificial Intelligence**.
 
@@ -73,6 +73,10 @@ Di bawah ini adalah **ambiguous statement** sehingga validitas **Proposition** t
 - Anda merasa tampan
 
 Pada statement ketiga bisa jadi sebuah paradox.
+
+### Logical Form & Logical Equivalence
+
+Simbol memerankan peran kritis dalam matematika saat kita mendiskusikan **logic** dari sebuah **propositional** kita harus menggunakan simbol untuk merepresentasikan suatu **statement**. Biasanya menggunakan huruf kapital, sebagai contoh kita dapat menggunakan huruf **M** yang merepresentasikan **"Maudy sedang bersama Mas Gun"** dan kita dapat menggunakan hurug **G** untuk merepresentasikan **"Mas Gun berada di Eropa"**.
 
 ### Atomic & Composite Proposition
 
