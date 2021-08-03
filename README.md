@@ -1,8 +1,14 @@
-# Belajar Dengan Jenius Pre-Algebra
-Learning From Zero to Hero Pre-algebra
+# Belajar Dengan Jenius Mathematics
+Gun Gun Febrianza
 
-### [Identity Number](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Pre-Algebra/blob/master/identity-numbers.md) 
-### [Equation](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Pre-Algebra/blob/master/Equation.md) 
+- Algorithm
+- Set Theory
+  - Subset
+- Proposition Logic
+  - Proposition
+  - Logical Form
+  - Connectives
+  - Truth Tables
 
 
 **Note :**    

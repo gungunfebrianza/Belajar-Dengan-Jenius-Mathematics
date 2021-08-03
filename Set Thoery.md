@@ -122,12 +122,34 @@ Jika terdapat **Proposition** **P** = "**Today Is Saturday**" dan **Q** = "**It'
 
 ### Truth Tables
 
+Terdapat sebuah **Propositional** dengan simbol **P**,**Q** & **R**, selanjutnya kita dapat menetapkan sebuah truth value pada masing-masing simbol. **Truth Value** yang diberikan untuk **P**,**Q** & **R** adalah **T**, **F**, **T** dimana **T** adalah **True** dan **F** adalah **False**.
+
+**Connectives** menghasilkan nilai **Natural Truth** sebagai berikut :
+
+**Table Conjunction**
+
 |  P   |  Q   | P<img src="https://render.githubusercontent.com/render/math?math=\land&mode=inline">Q |
 | :--: | :--: | :----------------------------------------------------------: |
 |  T   |  T   |                              T                               |
 |  T   |  F   |                              F                               |
 |  F   |  T   |                              F                               |
 |  F   |  F   |                              F                               |
+
+**Table Disjunction**
+
+|  P   |  Q   | P<img src="https://render.githubusercontent.com/render/math?math=\lor&mode=inline">Q |
+| :--: | :--: | :----------------------------------------------------------: |
+|  T   |  T   |                              T                               |
+|  T   |  F   |                              T                               |
+|  F   |  T   |                              T                               |
+|  F   |  F   |                              F                               |
+
+**Table Negation**
+
+|  P   |      | <img src="https://render.githubusercontent.com/render/math?math=\neg&mode=inline">P |
+| :--: | ---- | :----------------------------------------------------------: |
+|  T   |      |                              F                               |
+|  F   |      |                              T                               |
 
 
 
