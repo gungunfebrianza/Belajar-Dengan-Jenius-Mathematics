@@ -27,9 +27,13 @@ Cheatsheet Latex : [Click](https://www.authorea.com/users/77723/articles/110898-
 
 # Statistic
 
+# Probability Theory
+
 # Trigonometry 
 
 # Linear Algebra 
 
-# Calculus
+# Calculus 
+
+# Cryptography
 
