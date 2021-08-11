@@ -23,7 +23,20 @@ Cheatsheet Latex : [Click](https://www.authorea.com/users/77723/articles/110898-
 
 # Number Theory
 
+# Pre-Algebra
+
 # Algebra 
+- Linear Equation
+- Linear Inequalities
+- Graphing Linear Functions
+- Linear Functions
+- Systems of Linear Equations
+- Exponential Functions & Sequences
+- Polynomial Equations & Factoring
+- Graphing Quadratic Functions
+- Quadratic Equations
+- Radical Functions & Equations
+- Data Analysis
 
 # Statistic
 
