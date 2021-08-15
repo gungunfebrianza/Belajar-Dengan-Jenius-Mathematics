@@ -25,7 +25,14 @@ Cheatsheet Latex : [Click](https://www.authorea.com/users/77723/articles/110898-
 
 # Pre-Algebra
 
+- Arithmetic
+- Fractions
+- Decimal Numbers
+- Percentage
+- Ratio
+
 # Algebra 
+
 - Linear Equation
 - Linear Inequalities
 - Graphing Linear Functions
