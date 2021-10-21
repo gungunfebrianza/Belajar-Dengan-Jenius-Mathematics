@@ -17,4 +17,9 @@
 
 - Sebuah **Whole Number** yang lebih dari satu 
 - Sebuah **Whole Number** yang tidak bisa dibuat dari perkalian antar **whole number**
+- Contoh **Prime Number** = 2, 3, 5, 7, 11, 13, 17, 19 dan 23,
+
+<img src="assets/prime-composite.svg" style="zoom:100%;" />
+
+**Whole Number** yang dapat diproduksi dari sebuah perkalian antar **Whole Numbers** disebut dengan **Composite Number**.
 
