@@ -69,5 +69,7 @@ Faktor adalah **numbers** yang digunakan dalam perkalian untuk mendapatkan **num
 
    Maka kita sudah bisa mendapatkan seluruh **factor** yang termasuk ke dalam **prime number**.
 
-   
+3. Berapa **prime factorization** dari **17** ?
+
+   **Prime Number** dari **prime factorization** 17 adalah **17**.
 
